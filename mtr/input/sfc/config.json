@@ -1,0 +1,23 @@
+{
+    "continuous_variables": [
+        "Fea001",
+        "Fea002",
+        "Fea003",
+        "Fea004",
+        "Fea005",
+        "Fea006",
+        "Fea007",
+        "Fea008",
+        "Fea009",
+        "Fea010",
+        "Fea011",
+        "Fea012"
+    ],
+    "categorical_variables": [],
+    "targets": [
+        "CPU1",
+        "Mem1",
+        "CPU1",
+        "Mem2"
+    ]
+}

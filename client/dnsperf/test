@@ -1,0 +1,2 @@
+./dnsperf -d dnsRequest -s 192.168.1.30  -c 1 -i 1 -Q 1
+./dnsperf -d dnsRequest -s 192.168.1.30  -c 1 -i 1 -Q 1

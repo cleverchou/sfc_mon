@@ -1,0 +1,30 @@
+mount -t vboxsf vmshare /mnt/shared
+systemd-resolve --flush-caches    //clean dns cache
+
+ip route add 192.168.1.0/24 dev enp0s8
+
+iMon_agent run:
+python3 net_monitor0513.py enp0s8 192.168.10.20
+
+test:
+ ./dnsperf -d dnsRequest -s 192.168.1.30  -t 400 -Q 1
+ ./dnsperf -d dnsRequest -s 192.168.1.30  -l 120
+
+
+
+
+bcc install:
+apt-get install bpfcc-tools linux-headers-$(uname -r)
+apt-get install python3-pip
+apt-get install bison build-essential cmake flex libedit-dev libllvm6.0 llvm-6.0-dev python zlib1g-dev libelf-dev libfl-dev
+
+cd bcc
+cd build/
+cmake ..
+make
+make install
+cmake -DPYTHON_CMD=python3 ..
+cd src/python/
+make
+make install
+

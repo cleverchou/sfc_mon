@@ -1,0 +1,2256 @@
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.42400
+
+[Result]Queries Per Second:	2358.49057
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.49400
+
+[Result]Queries Per Second:	2024.29150
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.25500
+
+[Result]Queries Per Second:	3921.56863
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.91100
+
+[Result]Queries Per Second:	1097.69484
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.25600
+
+[Result]Queries Per Second:	3906.25000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.37600
+
+[Result]Queries Per Second:	2659.57447
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.32200
+
+[Result]Queries Per Second:	3105.59006
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.35900
+
+[Result]Queries Per Second:	2785.51532
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.34500
+
+[Result]Queries Per Second:	2898.55072
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.32400
+
+[Result]Queries Per Second:	3086.41975
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00500
+
+[Result]Queries Per Second:	200.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.36800
+
+[Result]Queries Per Second:	2717.39130
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.24400
+
+[Result]Queries Per Second:	4098.36066
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.41400
+
+[Result]Queries Per Second:	2415.45894
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.32800
+
+[Result]Queries Per Second:	3048.78049
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.34000
+
+[Result]Queries Per Second:	2941.17647
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.24000
+
+[Result]Queries Per Second:	4166.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.31900
+
+[Result]Queries Per Second:	3134.79624
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.32700
+
+[Result]Queries Per Second:	3058.10398
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.32500
+
+[Result]Queries Per Second:	3076.92308
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.63200
+
+[Result]Queries Per Second:	1582.27848
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	30
+[Result]Complete percentage:	30.00
+
+[Result]Elapsed time(s):	0.00400
+
+[Result]Queries Per Second:	25000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	51
+[Result]Complete percentage:	51.00
+
+[Result]Elapsed time(s):	0.00700
+
+[Result]Queries Per Second:	14285.71429
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	22
+[Result]Complete percentage:	22.00
+
+[Result]Elapsed time(s):	0.00400
+
+[Result]Queries Per Second:	25000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	78
+[Result]Complete percentage:	78.00
+
+[Result]Elapsed time(s):	0.01700
+
+[Result]Queries Per Second:	5882.35294
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	1
+[Result]Complete percentage:	1.00
+
+[Result]Elapsed time(s):	0.00500
+
+[Result]Queries Per Second:	20000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	98
+[Result]Complete percentage:	98.00
+
+[Result]Elapsed time(s):	0.02000
+
+[Result]Queries Per Second:	5000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	1
+[Result]Complete percentage:	1.00
+
+[Result]Elapsed time(s):	0.00600
+
+[Result]Queries Per Second:	16666.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	97
+[Result]Complete percentage:	97.00
+
+[Result]Elapsed time(s):	0.01600
+
+[Result]Queries Per Second:	6250.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	51
+[Result]Complete percentage:	51.00
+
+[Result]Elapsed time(s):	0.00700
+
+[Result]Queries Per Second:	14285.71429
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	1
+[Result]Complete percentage:	1.00
+
+[Result]Elapsed time(s):	0.00600
+
+[Result]Queries Per Second:	16666.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11500
+
+[Result]Queries Per Second:	8695.65217
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.10600
+
+[Result]Queries Per Second:	9433.96226
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11700
+
+[Result]Queries Per Second:	8547.00855
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11700
+
+[Result]Queries Per Second:	8547.00855
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11500
+
+[Result]Queries Per Second:	8695.65217
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.10800
+
+[Result]Queries Per Second:	9259.25926
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11100
+
+[Result]Queries Per Second:	9009.00901
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11300
+
+[Result]Queries Per Second:	8849.55752
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11800
+
+[Result]Queries Per Second:	8474.57627
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.12000
+
+[Result]Queries Per Second:	8333.33333
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	1
+[Result]Complete percentage:	1.00
+
+[Result]Elapsed time(s):	0.00600
+
+[Result]Queries Per Second:	16666.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	3
+[Result]Complete percentage:	3.00
+
+[Result]Elapsed time(s):	0.00600
+
+[Result]Queries Per Second:	16666.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	1
+[Result]Complete percentage:	1.00
+
+[Result]Elapsed time(s):	0.00600
+
+[Result]Queries Per Second:	16666.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	98
+[Result]Complete percentage:	98.00
+
+[Result]Elapsed time(s):	0.01700
+
+[Result]Queries Per Second:	5882.35294
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	38
+[Result]Complete percentage:	38.00
+
+[Result]Elapsed time(s):	0.00900
+
+[Result]Queries Per Second:	11111.11111
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	6
+[Result]Complete percentage:	6.00
+
+[Result]Elapsed time(s):	0.00900
+
+[Result]Queries Per Second:	11111.11111
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	8
+[Result]Complete percentage:	8.00
+
+[Result]Elapsed time(s):	0.00300
+
+[Result]Queries Per Second:	33333.33333
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	97
+[Result]Complete percentage:	97.00
+
+[Result]Elapsed time(s):	0.02000
+
+[Result]Queries Per Second:	5000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	1
+[Result]Complete percentage:	1.00
+
+[Result]Elapsed time(s):	0.00500
+
+[Result]Queries Per Second:	20000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	69
+[Result]Complete percentage:	69.00
+
+[Result]Elapsed time(s):	0.01500
+
+[Result]Queries Per Second:	6666.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.10100
+
+[Result]Queries Per Second:	9900.99010
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.10300
+
+[Result]Queries Per Second:	9708.73786
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.10700
+
+[Result]Queries Per Second:	9345.79439
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.10300
+
+[Result]Queries Per Second:	9708.73786
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.10100
+
+[Result]Queries Per Second:	9900.99010
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11400
+
+[Result]Queries Per Second:	8771.92982
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1059
+[Result]Quries completed:	967
+[Result]Complete percentage:	91.31
+
+[Result]Elapsed time(s):	1.01600
+
+[Result]Queries Per Second:	1042.32283
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11000
+
+[Result]Queries Per Second:	9090.90909
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11200
+
+[Result]Queries Per Second:	8928.57143
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.251:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.11700
+
+[Result]Queries Per Second:	8547.00855
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.42000
+
+[Result]Queries Per Second:	2380.95238
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.36700
+
+[Result]Queries Per Second:	2724.79564
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.28400
+
+[Result]Queries Per Second:	3521.12676
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.45900
+
+[Result]Queries Per Second:	2178.64924
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.34700
+
+[Result]Queries Per Second:	2881.84438
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.44900
+
+[Result]Queries Per Second:	2227.17149
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.26100
+
+[Result]Queries Per Second:	3831.41762
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.41800
+
+[Result]Queries Per Second:	2392.34450
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.27800
+
+[Result]Queries Per Second:	3597.12230
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.37300
+
+[Result]Queries Per Second:	2680.96515
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00000
+
+[Result]Queries Per Second:	inf
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	1
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.00100
+
+[Result]Queries Per Second:	1000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.39500
+
+[Result]Queries Per Second:	2531.64557
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.42200
+
+[Result]Queries Per Second:	2369.66825
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.79500
+
+[Result]Queries Per Second:	1257.86164
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.27700
+
+[Result]Queries Per Second:	3610.10830
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.31600
+
+[Result]Queries Per Second:	3164.55696
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.28100
+
+[Result]Queries Per Second:	3558.71886
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.43800
+
+[Result]Queries Per Second:	2283.10502
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.48900
+
+[Result]Queries Per Second:	2044.98978
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.26800
+
+[Result]Queries Per Second:	3731.34328
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	1000
+[Result]Complete percentage:	100.00
+
+[Result]Elapsed time(s):	0.53300
+
+[Result]Queries Per Second:	1876.17261
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	87
+[Result]Complete percentage:	87.00
+
+[Result]Elapsed time(s):	0.00700
+
+[Result]Queries Per Second:	14285.71429
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	99
+[Result]Complete percentage:	99.00
+
+[Result]Elapsed time(s):	0.01800
+
+[Result]Queries Per Second:	5555.55556
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	86
+[Result]Complete percentage:	86.00
+
+[Result]Elapsed time(s):	0.00700
+
+[Result]Queries Per Second:	14285.71429
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	95
+[Result]Complete percentage:	95.00
+
+[Result]Elapsed time(s):	0.01800
+
+[Result]Queries Per Second:	5555.55556
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	35
+[Result]Complete percentage:	35.00
+
+[Result]Elapsed time(s):	0.00300
+
+[Result]Queries Per Second:	33333.33333
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	98
+[Result]Complete percentage:	98.00
+
+[Result]Elapsed time(s):	0.02000
+
+[Result]Queries Per Second:	5000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	75
+[Result]Complete percentage:	75.00
+
+[Result]Elapsed time(s):	0.00800
+
+[Result]Queries Per Second:	12500.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	4
+[Result]Complete percentage:	4.00
+
+[Result]Elapsed time(s):	0.00600
+
+[Result]Queries Per Second:	16666.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	97
+[Result]Complete percentage:	97.00
+
+[Result]Elapsed time(s):	0.02100
+
+[Result]Queries Per Second:	4761.90476
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	1
+[Result]Complete percentage:	1.00
+
+[Result]Elapsed time(s):	0.00400
+
+[Result]Queries Per Second:	25000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1013
+[Result]Quries completed:	930
+[Result]Complete percentage:	91.81
+
+[Result]Elapsed time(s):	0.05700
+
+[Result]Queries Per Second:	17771.92982
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1073
+[Result]Quries completed:	1043
+[Result]Complete percentage:	97.20
+
+[Result]Elapsed time(s):	0.10500
+
+[Result]Queries Per Second:	10219.04762
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1002
+[Result]Quries completed:	993
+[Result]Complete percentage:	99.10
+
+[Result]Elapsed time(s):	0.07900
+
+[Result]Queries Per Second:	12683.54430
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1017
+[Result]Quries completed:	983
+[Result]Complete percentage:	96.66
+
+[Result]Elapsed time(s):	0.07100
+
+[Result]Queries Per Second:	14323.94366
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1090
+[Result]Quries completed:	1076
+[Result]Complete percentage:	98.72
+
+[Result]Elapsed time(s):	0.07700
+
+[Result]Queries Per Second:	14155.84416
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1021
+[Result]Quries completed:	973
+[Result]Complete percentage:	95.30
+
+[Result]Elapsed time(s):	0.05400
+
+[Result]Queries Per Second:	18907.40741
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1021
+[Result]Quries completed:	971
+[Result]Complete percentage:	95.10
+
+[Result]Elapsed time(s):	0.06100
+
+[Result]Queries Per Second:	16737.70492
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1001
+[Result]Quries completed:	909
+[Result]Complete percentage:	90.81
+
+[Result]Elapsed time(s):	0.08900
+
+[Result]Queries Per Second:	11247.19101
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.05900
+
+[Result]Queries Per Second:	16949.15254
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1003
+[Result]Quries completed:	913
+[Result]Complete percentage:	91.03
+
+[Result]Elapsed time(s):	0.08800
+
+[Result]Queries Per Second:	11397.72727
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	86
+[Result]Complete percentage:	86.00
+
+[Result]Elapsed time(s):	0.00900
+
+[Result]Queries Per Second:	11111.11111
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	98
+[Result]Complete percentage:	98.00
+
+[Result]Elapsed time(s):	0.01900
+
+[Result]Queries Per Second:	5263.15789
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	98
+[Result]Complete percentage:	98.00
+
+[Result]Elapsed time(s):	0.01800
+
+[Result]Queries Per Second:	5555.55556
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	97
+[Result]Complete percentage:	97.00
+
+[Result]Elapsed time(s):	0.00900
+
+[Result]Queries Per Second:	11111.11111
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	94
+[Result]Complete percentage:	94.00
+
+[Result]Elapsed time(s):	0.01200
+
+[Result]Queries Per Second:	8333.33333
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	92
+[Result]Complete percentage:	92.00
+
+[Result]Elapsed time(s):	0.00700
+
+[Result]Queries Per Second:	14285.71429
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	62
+[Result]Complete percentage:	62.00
+
+[Result]Elapsed time(s):	0.00500
+
+[Result]Queries Per Second:	20000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	6
+[Result]Complete percentage:	6.00
+
+[Result]Elapsed time(s):	0.00200
+
+[Result]Queries Per Second:	50000.00000
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	98
+[Result]Complete percentage:	98.00
+
+[Result]Elapsed time(s):	0.03100
+
+[Result]Queries Per Second:	3225.80645
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		100
+[Result]Quries completed:	95
+[Result]Complete percentage:	95.00
+
+[Result]Elapsed time(s):	0.01100
+
+[Result]Queries Per Second:	9090.90909
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1018
+[Result]Quries completed:	926
+[Result]Complete percentage:	90.96
+
+[Result]Elapsed time(s):	0.07300
+
+[Result]Queries Per Second:	13945.20548
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1015
+[Result]Quries completed:	973
+[Result]Complete percentage:	95.86
+
+[Result]Elapsed time(s):	0.05700
+
+[Result]Queries Per Second:	17807.01754
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1022
+[Result]Quries completed:	978
+[Result]Complete percentage:	95.69
+
+[Result]Elapsed time(s):	0.07500
+
+[Result]Queries Per Second:	13626.66667
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1010
+[Result]Quries completed:	917
+[Result]Complete percentage:	90.79
+
+[Result]Elapsed time(s):	0.07000
+
+[Result]Queries Per Second:	14428.57143
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1032
+[Result]Quries completed:	981
+[Result]Complete percentage:	95.06
+
+[Result]Elapsed time(s):	0.15500
+
+[Result]Queries Per Second:	6658.06452
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1011
+[Result]Quries completed:	950
+[Result]Complete percentage:	93.97
+
+[Result]Elapsed time(s):	0.26400
+
+[Result]Queries Per Second:	3829.54545
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	903
+[Result]Complete percentage:	90.30
+
+[Result]Elapsed time(s):	0.05200
+
+[Result]Queries Per Second:	19230.76923
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1001
+[Result]Quries completed:	903
+[Result]Complete percentage:	90.21
+
+[Result]Elapsed time(s):	0.08300
+
+[Result]Queries Per Second:	12060.24096
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1028
+[Result]Quries completed:	1021
+[Result]Complete percentage:	99.32
+
+[Result]Elapsed time(s):	0.09200
+
+[Result]Queries Per Second:	11173.91304
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 202.197.161.252:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1000
+[Result]Quries completed:	901
+[Result]Complete percentage:	90.10
+
+[Result]Elapsed time(s):	0.06700
+
+[Result]Queries Per Second:	14925.37313
+./dnsperf -d dnsRequest -s 202.197.161.251 -c 1 -i 1 -Q 1
+./dnsperf -d dnsRequest -s 202.197.161.251 -c 1 -i 1 -Q 1000
+./dnsperf -d dnsRequest -s 202.197.161.251 -c 1 -i 10 -Q 1
+./dnsperf -d dnsRequest -s 202.197.161.251 -c 1 -i 10 -Q 1000
+./dnsperf -d dnsRequest -s 202.197.161.251 -c 100 -i 1 -Q 1
+./dnsperf -d dnsRequest -s 202.197.161.251 -c 100 -i 1 -Q 1000
+./dnsperf -d dnsRequest -s 202.197.161.251 -c 100 -i 10 -Q 1
+./dnsperf -d dnsRequest -s 202.197.161.251 -c 100 -i 10 -Q 1000
+./dnsperf -d dnsRequest -s 202.197.161.252 -c 1 -i 1 -Q 1
+./dnsperf -d dnsRequest -s 202.197.161.252 -c 1 -i 1 -Q 1000
+./dnsperf -d dnsRequest -s 202.197.161.252 -c 1 -i 10 -Q 1
+./dnsperf -d dnsRequest -s 202.197.161.252 -c 1 -i 10 -Q 1000
+./dnsperf -d dnsRequest -s 202.197.161.252 -c 100 -i 1 -Q 1
+./dnsperf -d dnsRequest -s 202.197.161.252 -c 100 -i 1 -Q 1000
+./dnsperf -d dnsRequest -s 202.197.161.252 -c 100 -i 10 -Q 1
+./dnsperf -d dnsRequest -s 202.197.161.252 -c 100 -i 10 -Q 1000

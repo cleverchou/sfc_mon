@@ -1,0 +1,15 @@
+
+DNS Performance Testing Tool
+
+[Status] Processing query data
+[Status] Sending queries to 192.168.1.30:53
+
+[Status]DNS Query Performance Testing Finish
+[Result]Quries sent:		1
+[Result]Quries completed:	0
+[Result]Complete percentage:	0.00
+
+[Result]Elapsed time(s):	3.00000
+
+[Result]Queries Per Second:	0.33333
+./dnsperf -d dnsRequest -s 192.168.1.30 -c 1 -i 1 -Q 1

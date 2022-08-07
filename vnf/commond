@@ -1,0 +1,94 @@
+#!/usr/bin/
+#docker system prune -a
+
+
+
+
+mount -t vboxsf vmshare /mnt/shared
+ifconfig enp0s3 hw ether 08:00:27:bb:3d:68
+ifconfig enp0s8 hw ether 08:00:27:9f:f0:e7
+
+#### Ingress run 
+docker run -itd  --privileged --network host --name test  ebpf
+docker run -itd  --name ebpf  -e NAME="ebpfMon" --privileged  ebpf
+
+
+mkdir /var/run/netns/
+docker run -itd --rm  --network none --name test1  -e NAME="IPS1-1" --privileged  -m 2G --cpu-period=100000 --cpu-quota=200000  suricata
+docker run -itd --rm  --network none --name test2  -e NAME="DPI1-2" --privileged  -m 2G --cpu-period=100000 --cpu-quota=200000  ntopng
+
+
+######docker 1
+ip link add veth0 type veth peer name veth1
+ip link set veth0 up
+f1id=$(docker inspect test1 -f'{{.State.Pid}}')
+ln -s /proc/$f1id/ns/net /var/run/netns/$f1id
+ip link set veth1 netns $f1id
+ip netns exec $f1id ip link set dev veth1 name eth0
+ip netns exec $f1id ip link set eth0 up
+
+######docker 2
+ip link add veth3 type veth peer name veth2
+ip link set veth3 up
+f2id=$(docker inspect test2 -f'{{.State.Pid}}')
+ln -s /proc/$f2id/ns/net /var/run/netns/$f2id
+ip link set veth2 netns $f2id
+ip netns exec $f2id ip link set dev veth2 name eth1
+ip netns exec $f2id ip link set eth1 up
+
+######between docker
+ip link add veth01 type veth peer name veth10
+ip link set veth01 netns $f1id
+ip netns exec $f1id ip link set dev veth01 name eth1
+ip netns exec $f1id ip link set eth1 up
+ip link set veth10 netns $f2id
+ip netns exec $f2id ip link set dev veth10 name eth0
+ip netns exec $f2id ip link set eth0 up
+
+
+####Ingress run 
+#####test container
+docker exec -it test bash
+cd /home
+python3 net_monitor0428.py veth0 192.168.10.20
+
+
+#####test1 container    
+docker exec -it test1 bash
+docker exec -it test1 suricata -c /etc/suricata/suricata.yaml --af-packet &
+
+#####test2 container
+docker exec -it test2 bash
+brctl addbr br
+brctl addif br eth0
+brctl addif br eth1
+ip addr add 1.1.1.1/32 dev br
+ip link set dev br up
+/etc/init.d/redis-server  start && ntopng -i eth0 -l &
+
+#####
+ovs-vsctl del-br brVNF
+ovs-vsctl add-br brVNF
+ovs-vsctl --may-exist add-port brVNF veth0
+ovs-vsctl --may-exist add-port brVNF veth3
+ovs-vsctl --may-exist add-port brVNF enp0s3
+ovs-vsctl --may-exist add-port brVNF enp0s8
+ovs-vsctl show
+
+ovs-ofctl add-flow brVNF in_port=enp0s3,actions=output:veth0
+ovs-ofctl add-flow brVNF in_port=veth3,actions=output:enp0s8
+ovs-ofctl add-flow brVNF in_port=veth0,actions=output:enp0s3
+ovs-ofctl add-flow brVNF in_port=enp0s8,actions=output:veth3
+ovs-ofctl dump-flows brVNF
+
+
+
+####cadvisor
+cd /home/zhoucong
+./cadvisor  -port=8080 &  #>>/var/log/cadvisor.log
+./cadvisor_39  -port=8080 -allow_dynamic_housekeeping=true --housekeeping_interval=10s -global_housekeeping_interval=1m &
+cd docker-mon-master &&  ./docker-mon
+
+
+source /etc/profile
+go build -o docker-mon main.go 

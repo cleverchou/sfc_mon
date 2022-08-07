@@ -1,0 +1,11 @@
+mount -t vboxsf vmshare /mnt/shared
+
+Add tabale : 
+curl -XPOST http://localhost:8086/query --data-urlencode "q=CREATE DATABASE prometheus"
+
+ip route add 192.168.0.11/32 dev enp0s3
+ip route add 192.168.0.0/24 dev enp0s3
+
+
+DNS run:
+maradns

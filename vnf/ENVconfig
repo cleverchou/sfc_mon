@@ -1,0 +1,31 @@
+1、将intnet1上Ingress的MAC地址注册在VNF的intnet2网卡enp0s8。
+VBoxManage modifyvm "VNF" --macaddress2 080027b12a21
+
+
+
+2、将intnet2上Outgress的MAC地址注册在VNF的intnet1网卡enp0s3。
+VBoxManage modifyvm "VNF" --macaddress1 08002723662f
+
+3、Linux Bridge主机起来后，通过ifconfig命令将其enp0s3、enp0s8网卡的MAC改成别的
+ifconfig enp0s3 hw ether 08:00:27:bb:3d:68
+ifconfig enp0s8 hw ether 08:00:27:9f:f0:e7
+
+
+
+
+
+enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+link/ether 08:00:27:ec:f5:08 brd ff:ff:ff:ff:ff:ff
+----macaddress1
+
+
+
+enp0s8: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+link/ether 08:00:27:02:c9:6f brd ff:ff:ff:ff:ff:ff
+----macaddress2
+
+vboxmanage showvminfo "VNF"
+nic1: mac f508
+nic2: mac c96f
+nic3: mac 5ca0
+nic4: mac 1752
